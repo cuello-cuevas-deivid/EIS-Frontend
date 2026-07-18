@@ -1,0 +1,146 @@
+[
+  {
+    "slug": "desarrollo-software",
+    "title": "Desarrollo de Software",
+    "description": "<p>Si planea poner en marcha un proyecto o idea para una solución de software a la medida para su empresa, o si está comprometido en el desarrollo de productos de software, estamos en la disposición de prestar nuestros servicios de Desarrollo de Software para cualquier etapa de su proyecto y brindarle una solución óptima para su producto. Ofrecemos modelos flexibles de colaboración y opciones de precio para satisfacer sus objetivos de negocio y superar sus expectativas.</p>",
+    "offerings": [
+        {
+            "title": "Desarrollo de software personalizado",
+            "description": "<p>Nuestros desarrolladores de software pueden acompañar a su empresa a través de la optimización de sus objetivos de negocio y desarrollar una solución de software a medida para ayudarle a obtener los mejores resultados.</p>"
+        },
+        {
+            "title": "La experiencia de usuario diseño y modelo de prototipos",
+            "description": "<p>El diseño de interacción es vital para asegurarse de que el software cumpla con las demandas de los usuarios y este siga siendo intuitivo y fácil de usar. Nuestro equipo creará un diseño de experiencias de usuario y prototipos de software para hacer de su estrategia de software algo tangible y conceptualizar la visión de su empresa.</p>"
+        },
+        {
+            "title": "Integración de aplicaciones empresariales",
+            "description": "<p>Tenemos un conocimiento experto en la interfaz de componentes individuales de sistemas complejos dentro de un recurso integrado de datos corporativos. Nuestros desarrolladores de software convertirán sus silos de información en una fuente de análisis de datos comprensibles.</p>"
+        },
+        {
+            "title": "Arquitectura de seguridad de software",
+            "description": "<p>La seguridad de la información empresarial es una prioridad para cualquier organización. Nuestro equipo se hará cargo de sus datos y mecanismos robustos de arquitectura de seguridad, con el fin de prevenir cualquier violación o brecha de información y hacks de datos de su sistema de software.</p>"
+        },
+        {
+            "title": "Reingeniería del software y modernización",
+            "description": "<p>La web está evolucionando a un ritmo vertiginoso y abre nuevas oportunidades para mirar y dar. Nuestro equipo de Desarrollo de Software se unirá a su empresa para agregar nuevas características a su solución de software, así como refactorizar y rediseñar, lo que le ayudará a adoptar nuevas oportunidades digitales.</p>"
+        }
+    ]
+  },
+  
+  {
+    "slug": "desarrollo-aplicaciones-web",
+    "title": "Desarrollo de Aplicaciones Web",
+    "description": "<p>Nuestros desarrolladores de aplicaciones web transformarán sus grandes ideas en soluciones web viables. Con las habilidades y experiencias de desarrollo de aplicaciones web, nuestra empresa puede diseñar aplicaciones web atractivas y poner en marcha su negocio.</p>",
+    "offerings": [
+        {
+            "title": "Desarrollo de aplicaciones web personalizadas",
+            "description": "<p>Su empresa tiene una estructura única y procesos, y ninguna de las soluciones out-of-box se adapta a su negocio a un 100%. Nuestros desarrolladores web están aquí para escuchar sus requerimientos y construir una solución empresarial personalizada para maximizar sus esfuerzos internos a través de diferentes canales y así usted pueda centrarse en su negocio.</p>"
+        },
+        {
+            "title": "Soluciones de arquitectura en la nube",
+            "description": "<p>¿Su empresa requiere más flexibilidad? ¿Está pensando en un modelo de ingresos diferente para su negocio? Nuestro equipo de desarrollo de aplicaciones web pondrá sus datos en una nube segura o construirá una solución SaaS para dar a sus clientes una mayor flexibilidad.</p>"
+        },
+        {
+            "title": "Desarrollo de sitios web optimizado para móviles",
+            "description": "<p>Nuestros desarrolladores web están en línea con las últimas tendencias en técnicas de diseño responsive y estamos bien conscientes de lo que realmente quieren los usuarios móviles. Vamos a ayudar a su empresa a llevar a la comunidad móvil su entorno y sintonía con los patrones de estaciones de trabajo para sus empleados.</p>"
+        },
+        {
+            "title": "Desarrollo de Software de inicio",
+            "description": "<p>Usted está a punto de iniciar un nuevo proyecto, que va a cambiar la forma en que el mundo en línea percibe las actividades rutinarias y ampliar sus oportunidades en la web. Nuestro equipo de desarrollo de aplicaciones web conoce todos los escollos y bajíos de las empresas. Estamos listos para darle a su empresa una mano solidaria a través de todas las etapas – de negocios y desarrollo – para desarrollar su idea de ver el mundo.</p>"
+        },
+        {
+            "title": "Tecnologías en el Desarrollo Web",
+            "description": "<ul class='list-disc pl-5'><li>HTML5</li><li>JavaScript</li><li>.NET</li><li>PHP</li><li>CSS</li></ul>"
+        }
+    ]
+  },
+   
+  {
+    "slug": "diseno-portales-personalizados",
+    "title": "Diseño de Portales Personalizados",
+    "description": "<p>Diseño Web profesional y personalizado a la medida, con un Panel de Administración de Contenidos (CMS) para que pueda actualizar la información de su sitio web sin depender de especialistas en Sistemas. <br><br> Trabajamos con un equipo multi-disciplinario de especialistas y procedimientos que garantizan el resultado exitoso de su proyecto. Tenemos decenas de clientes satisfechos.<br><br>Características de nuestros Diseños Web:</p><ul class='list-disc pl-10 text-sm'><li>Diseñador, Project Manager y Desarrollador exclusivos asignados a su proyecto.</li><li>El mayor respaldo y mejores prácticas de administración de proyectos. No estará solo en ningún momento.</li><li>Secciones generales como Quiénes Somos, Servicios, Productos, Clientes. ¡Hasta 15 secciones administrables y posibilidad de adicionar más!</li><li>Blog con comentarios para mantener dinámico el contenido de su sitio y aumentar el tráfico hacia el mismo.</li><li>Secciones privadas para usuarios registrados.</li><li>Inclusión de palabras claves, metatags, Google Sitemap y Google Analytics, además de alta manual en los principales directorios y buscadores de internet.</li><li>Páginas de presencia en las principales redes sociales para dirigir tráfico a su sitio (Facebook, Twitter) con botones de Me Gusta y Tweet.</li></ul>"
+  },
+
+  {
+    "slug": "desarrollo-aplicaciones-moviles",
+    "title": "Desarrollo de Aplicaciones Móviles",
+    "description": "<p>La experiencia móvil se ha convertido en parte de nuestra vida cotidiana. El mundo entero se ha sometido al uso de dispositivos móviles. La “vida en pareja” con los teléfonos inteligentes hace que la absorción de las aplicaciones móviles sea una herramienta imprescindible y una estrategia de negocios para las empresas de todos los sectores, ya sea sirviendo a otros negocios o a los ciudadanos. <br><br>Si usted está en búsqueda de un proveedor de desarrollo de aplicaciones móviles, somos su aliado perfecto. Nuestra empresa en materia de desarrollo de aplicaciones es experta en iOS, BlackBerry, Windows Phone y Android, esto le ayudará a subirse al tren móvil y llevar a cabo sus planes de desarrollo en cualquiera o todas las plataformas ya mencionadas.</p>"
+  },
+
+  {
+    "slug": "equipo-tecnicos-dedicado",
+    "title": "Equipo de Técnicos Dedicado",
+    "description": "<p>En esta modalidad de servicios, EIS reserva en sus instalaciones un completo Equipo de Técnicos Dedicado, especialistas en desarrollo de software, exclusivamente para el cliente, equipo que podrá usar según sus necesidades. Al igual que en outsourcing nuestros clientes pueden poner en nuestras manos la totalidad o parte de las tareas de análisis y desarrollo de software, que por algún motivo no pueda hacerse cargo. <br><br> Este servicio de equipos dedicados y exclusivos de desarrollo de software reduce considerablemente los costos, incluyendo ahorro por mantenimiento y uso de un espacio físico, también puede aprovecharse de un equipo experimentado, desarrollar más productos y soluciones en menos tiempo, contar con un departamento de desarrollo sólo cuando realmente sea necesario.</p>"
+  },
+
+  {
+    "slug": "outsourcing",
+    "title": "Outsourcing",
+    "description": "<p>Las diferentes empresas trantado de mantenerse en un mercado altamente competitivo debido a la globalizacion y al alto nivel de competencia que esto implica, se han visto en la necesidad de subcontratar (Outsourcing) aquellos servicios que no van directamente relacionados a su razon social. <br><br> Excellent Integrity Solutions hace disponible un completo equipo de desarrollo de software del cual sus clientes podrán disponer según sean sus necesidades. Nuestros clientes pueden poner en nuestro equipo la totalidad o parte de las tareas de análisis y desarrollo de software, que por algún motivo no pueda hacerse cargo. En esta modalidad los recursos bien pueden estar localizados en las instalaciones del cliente o en las facilidades de EIS (equipos dedicados). <br><br> Nuestro servicio de outsourcing le permitirá minimizar costos, contar un equipo experimentado, desarrollar más productos y soluciones en menos tiempo.</p>"
+  },
+
+  {
+    "slug": "alojamiento-web",
+    "title": "Alojamiento Web",
+    "description": "<p>Atendiendo desde la más pequeña necesidad de Alojamiento Web hasta la más avanzada buscamos trabajar con usted para ayudarle a tener y mantener un sitio web exitoso. Teniendo como ventaja las experiencias y habilidades de nuestro personal, así como métodos y herramientas innovadores, los proyectos que desarrollamos en conjunto con nuestros clientes, tienen como finalidad lograr transmitir en forma directa y concisa la filosofía de nuestros clientes, así como los servicios o productos que estos ofrecen. <br><br> Contamos con servidores dedicados, alojados en USA bajo las más estrictas normas de seguridad y que cuentan con la estructura adecuada que solo un Data Center podría ofrecer para un óptimo funcionamiento. <br><br> La atención y asesoría personalizada para nuestros clientes es de vital importancia para nosotros. Contamos también con un soporte de excelente calidad vía Skype.</p>"
+  },
+
+  {
+    "slug": "seguridad-software",
+    "title": "Seguridad de Software",
+    "description": "<p>Identificamos y solucionamos posibles vulnerabilidades de seguridad en las aplicaciones de nuestros clientes. Tenemos una gran variedad de soluciones que nos ayudan a agilizar el proceso de detección de problemas de seguridad de software y recomendar acciones. <br><br> Complementamos las herramientas con un experimentado equipo de profesionales de seguridad a nivel de código y de infraestructura de red, que trabajan en coordinación con los equipos de desarrollo brindándoles orientación en la prevención de la seguridad de software y arquitecturas fiables.</p>"
+  },
+
+  {
+    "slug": "integracion-aplicaciones",
+    "title": "Integración de Aplicaciones",
+    "description": "<p>EIS proporciona una gama completa de servicios de integración de aplicaciones que permiten a nuestros clientes acelerar los procesos de negocio, eliminar las operaciones ineficientes, verificar la validez y consistencia a través de los almacenes de datos. Esto se fundamenta en que según una investigación de la empresa consultora Gartner, el 75% de las empresas tienen 6 o más sistemas diferentes en su entorno de manejo de información. <br><br> El manejo de múltiples sistemas causa tres problemas principales que afectan el rendimiento de la empresa:</p> <ol class='list-decimal pl-10 text-sm'><li>Pérdida de tiempo y esfuerzos innecesarios para transferir datos de un sistema a otro.</li><li>Poca disponibilidad de información y mucho esfuerzo para hacer minería de datos.</li><li>Demasiado esfuerzo para el departamento de TI para mantener y controlar los sistemas.</li></ol>"
+  },
+
+  {
+    "slug": "prueba-software-calidad-control",
+    "title": "Prueba de Software y Control de Calidad",
+    "description": "<p>En EIS contamos con experimentados ingenieros de control de calidad de software dedicados exclusivamente a la prueba de software, así como en pruebas de procesos automatizados. <br><br> Nuestro proceso de pruebas se basa en las mejores prácticas de Rational Unified Process (RUP) y de metodologías ágiles de desarrollo. Una combinación de ambas nos garantiza la salida de productos de software desarrollados de la forma más eficiente.</p>"
+  },
+
+  {
+    "slug": "optimizacion-posicionamiento-web",
+    "title": "Optimización y Posicionamiento de Portales",
+    "description": "<p>Los principales buscadores (Google, Bing, Yahoo) no “conocen” muchos de los portales web que existen en el mundo. Por ello, ante un búsqueda concreta nunca indexarán un sitio web que no conocen. Un portal web puede ser amigable, atractivo y representar la imagen del cliente de un modo excepcional. Pero, ¿nos servirá de algo si los potenciales clientes no lo encuentran al consultar en los buscadores? … Por ello, es fundamental que nuestra web se encuentre bien posicionada en los buscadores para que nuestros posibles clientes nos encuentren fácilmente, lo que revertirá en un incremento de las visitas y por lo tanto en un incremento de las ventas. Es por esta razón que les ofrecemos nuestro servicio de Optimización y Posicionamiento de Portales. <br><br> El contenido del sitio web necesita ser encontrado cuando alguien lo busca y también necesita mejorar el posicionamiento en los resultados de una búsqueda en concreto de una determinada “palabra clave objetivo”. El resultado de una búsqueda depende de muchos factores que hay que tener en cuenta tanto a la hora de realizar un portal web como a la hora de actualizar su contenido: cómo se programó el sitio web, la calidad del contenido, la redacción del mismo, entre otros. <br><br> Nuestro servicio de mejora en la Optimización y Posicionamiento de Portales en buscadores (SEO – Search Engine Optimization) tiene el siguiente alcance: <br> <ul class='list-disc pl-10 text-sm'><li>Análisis exhaustivo del sitio web.</li><li>Análisis del cliente: objetivos perseguidos con el portal web, productos/servicios a comercializar, público objetivo al que va dirigido el sitio web.</li><li>Estudio de las “palabras clave” en las que queremos posicionar el portal web, en función de análisis realizado y del grado de competencia de las mismas.</li><li>Optimización del portal web para mejorar el posicionamiento en función de las palabras clave decididas incluyendo la optimización de enlaces internos/externos.</li></ul>"
+  },
+
+  {
+    "slug": "soporte-mantenimiento",
+    "title": "Soporte y Mantenimiento de Software",
+    "description": "<p>En EIS nos encargamos de dar soporte y mantenimiento de software a sus aplicaciones, dando oportunidad a que su negocio se enfoque en nuevas oportunidades del mercado. <br><br>¿Le gustaría ahorrar su precioso tiempo de manejo de incidentes en clientes y usuarios finales? <br><br>¿Le gustaría implementar constantemente cambios en su aplicación?<br><br>¿Le gustaría estar seguro de que su sistema es 24/7 disponible para los usuarios finales?</p>",
+    "offerings": [
+        {
+            "title": "Soporte de emergencia",
+            "description": "<p>Soluciones de emergencia, monitoreo de plataforma y soporte de software técnico 24/7.</p>"
+        },
+        {
+            "title": "La experiencia de usuario diseño y modelo de prototipos",
+            "description": "<p>El diseño de interacción es vital para asegurarse de que el software cumpla con las demandas de los usuarios y este siga siendo intuitivo y fácil de usar. Nuestro equipo creará un diseño de experiencias de usuario y prototipos de software para hacer de su estrategia de software algo tangible y conceptualizar la visión de su empresa.</p>"
+        },
+        {
+            "title": "Gestión",
+            "description": "<p>Incidentes al cliente y usuarios finales, proceso de cambios y liberación de versiones, gestión de requisitos y de riesgos.</p>"
+        },
+        {
+            "title": "Continuidad, Soporte y Mantenimiento de Software",
+            "description": "<p>Corrección de errores, nuevas características y mejoras de implementación, administración de bases de datos, control de calidad y pruebas, actualización de contenido en curso, reingeniería del sistema, refactorización de código y optimización del rendimiento.</p>"
+        },
+        {
+            "title": "Soporte de Infraestructura",
+            "description": "<p>Despliegue de aplicaciones, monitorización, resolución de problemas y actualizaciones planificadas.</p>"
+        }
+    ]
+  }
+]
+
+
+
+
+
+
+

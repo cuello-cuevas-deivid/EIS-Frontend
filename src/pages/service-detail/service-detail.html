@@ -1,0 +1,48 @@
+<div
+    class="bg-[url(https://cdn.pixabay.com/photo/2016/11/23/14/45/coding-1853305_1280.jpg)] bg-center bg-no-repeat bg-cover w-full h-120 bg-black/60 bg-blend-darken relative flex items-center">
+    <div class="w-full h-full absolute top-0 bg-black/40 backdrop-blur-xs"></div>
+    <div class="container mx-auto z-10">
+        <h1 class="text-white text-6xl/25 w-3xl">{{title}}</h1>
+    </div>
+</div>
+
+<main>
+    <section class="container mx-auto mt-10">
+        <div class="flex gap-5">
+            <div>
+                <h5 class="section-title">DESCRIPCIÓN DEL SERVICIO</h5>
+                <br>
+                <div [innerHTML]="description"></div>
+            </div>
+
+            @if (offerings){
+            <div class="mt-10">
+                <h5 class="text-blue-primary font-bold text-2xl">Te ofrecemos</h5>
+                <br>
+                <div ngAccordionGroup [multiExpandable]="false" class="basic-accordion min-w-1/2">
+                    <div ngAccordionGroup class="basic-accordion" [multiExpandable]="false">
+                        @for (item of offerings; track item.title){
+                        <h3>
+                            <span ngAccordionTrigger [panel]="panel1" #trigger1="ngAccordionTrigger" [expanded]="false">
+                                {{item.title}}
+                                <span aria-hidden="true" class="expand-icon"
+                                    [class.expand-icon__expanded]="trigger1.expanded()"></span>
+                            </span>
+                        </h3>
+                        <div ngAccordionPanel #panel1="ngAccordionPanel">
+                            <ng-template ngAccordionContent>
+                                <div [innerHTML]="item.description"></div>
+                            </ng-template>
+                        </div>
+                        }
+                    </div>
+                </div>
+            </div>
+            } @else {
+            <div class="min-w-1/2"></div>
+            }
+
+
+        </div>
+    </section>
+</main>
