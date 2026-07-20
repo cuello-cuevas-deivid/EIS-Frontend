@@ -30,35 +30,37 @@
   background: #555;
 }
 
+.container {
+  @apply px-2
+}
+
 .section-title {
   @apply text-gray-600 mb-1.5 w-fit relative after:content-[''] after:w-20 after:h-1 after:bg-[var(--color-red-primary)] after:-bottom-1 after:left-0 after:absolute;
 }
 
-
 .section-description {
-    @apply text-3xl/12 w-4xl font-[400];
+    @apply text-xl/10 md:text-3xl/12 max-w-4xl;
 }
 
-
-
-
-
-
+.hero-text {
+  @apply text-white text-4xl/15 md:text-6xl/25 md:w-3xl
+}
 
 
 
 [ngAccordionGroup] {
   width: 500px;
 }
-h3 {
+.section-detail-section h3 {
   font-size: 1rem;
   margin: 0;
   box-sizing: border-box;
   position: relative;
   color: #000;
 }
-h3:focus-within::before,
-h3:hover::before {
+
+.section-detail-section h3:focus-within::before,
+.section-detail-section h3:hover::before {
   content: '';
   position: absolute;
   height: 100%;
@@ -67,14 +69,10 @@ h3:hover::before {
   top: 0;
   left: 0;
 }
-h3:not(:first-of-type) {
+.section-detail-section h3:not(:first-of-type) {
   border-block-start: 1px solid black;
 }
-p {
-  margin: 0;
-  padding: 0 1.5rem 1.5rem 1.5rem;
-  font-size: 0.875rem;
-}
+
 [ngAccordionTrigger] {
   display: flex;
   align-items: center;
@@ -90,15 +88,15 @@ p {
   opacity: 0.5;
   cursor: default;
 }
-.expand-icon {
+.section-detail-section .expand-icon {
   position: relative;
   width: 1rem;
   height: 1rem;
   flex-shrink: 0;
   margin-left: 1rem;
 }
-.expand-icon::before,
-.expand-icon::after {
+.section-detail-section .expand-icon::before,
+.section-detail-section .expand-icon::after {
   content: '';
   position: absolute;
   width: 100%;
@@ -107,14 +105,14 @@ p {
   background-color: #000;
   transition: .3s ease-out;
 }
-.expand-icon::after {
+.section-detail-section .expand-icon::after {
   transform: rotate(90deg);
 }
-.expand-icon__expanded::before {
+.section-detail-section .expand-icon__expanded::before {
   transform: translateY(-50%) rotate(-90deg);
   opacity: 0;
 }
-.expand-icon__expanded::after {
+.section-detail-section.expand-icon__expanded::after {
   transform: translateY(-50%) rotate(0);
   background-color: #000;
 }
